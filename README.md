@@ -1,5 +1,5 @@
 # Escape to Cheese
-Unity group assigned for CS 4455 - Video Game Design @ GT
+Unity group project for CS 4455 - Video Game Design @ GT
 
 ## Game Information
 Navigate yourself as the rat through the world. 
