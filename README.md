@@ -1,6 +1,13 @@
 # Escape to Cheese
 Unity group project for CS 4455 - Video Game Design @ GT
 
+#### Members: 
+Sophia Wu <br />
+Ramya Ramaswamy <br />
+Soughtout Olasupo-Ojo <br />
+Jaysson Solano <br />
+Dev Patel
+
 ## Game Information
 Navigate yourself as the rat through the world. 
 Solve various puzzles to obtain keys and make your escape to obtain your reward of cheese. 
